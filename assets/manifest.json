@@ -1,0 +1,42 @@
+{
+  "lang": "en",
+  "name": "Research Software Citation",
+  "short_name": "Research Software Citation",
+  "description": "Software is an important research product. Cite it and make it citable!",
+  "start_url": "/citation/?utm_source=homescreen",
+  "theme_color": "#652d91",
+  "background_color": "#fff",
+  "orientation": "portrait",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/citation/assets/icons/icon@0,25x.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/citation/assets/icons/icon@0,5x.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/citation/assets/icons/icon@0,75x.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/citation/assets/icons/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/citation/assets/icons/icon@2x.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "/citation/assets/icons/icon@3x.png",
+      "type": "image/png",
+      "sizes": "576x576"
+    }
+  ]}

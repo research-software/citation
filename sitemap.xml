@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://research-software.org/citation/category/hydejack/</loc>
+<lastmod>2018-03-27T11:56:44+02:00</lastmod>
+</url>
+<url>
+<loc>https://research-software.org/citation/tag/example/</loc>
+<lastmod>2018-03-27T11:56:44+02:00</lastmod>
+</url>
+<url>
+<loc>https://research-software.org/citation/hydejack/2017/11/23/example-content/</loc>
+<lastmod>2017-11-23T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>https://research-software.org/citation/about/</loc>
+</url>
+<url>
+<loc>https://research-software.org/citation/developers/</loc>
+</url>
+<url>
+<loc>https://research-software.org/citation/</loc>
+</url>
+<url>
+<loc>https://research-software.org/citation/introduction/</loc>
+</url>
+<url>
+<loc>https://research-software.org/citation/researchers/</loc>
+</url>
+<url>
+<loc>https://research-software.org/citation/assets/bower_components/html5shiv/MIT%20and%20GPL2%20licenses/</loc>
+</url>
+</urlset>
