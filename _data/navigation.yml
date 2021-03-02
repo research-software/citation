@@ -1,0 +1,51 @@
+main:
+  - title: "Introduction"
+    url: /introduction/
+  - title: "For researchers"
+    url: /researchers/
+  - title: "For software developers"
+    url: /developers/
+  - title: "About"
+    url: /about/
+
+index:
+  - title: "Version"
+    children:
+      - title: "Version 1.0"
+      - title: "2018-02-16"
+  - title: "Contributors"
+    children:
+      - title: "Stephan Druskat <i class='fab fa-orcid'></i>"
+        url: "https://orcid.org/0000-0003-4925-7248"
+      - title: "Michael R. Crusoe <i class='fab fa-orcid'></i>"
+        url: "https://orcid.org/0000-0002-2961-9670"
+
+developers:
+  - title: "Version"
+    children:
+      - title: "Version 1.1"
+      - title: "2021-03-01"
+  - title: "Contributors"
+    children:
+      - title: "Stephan Druskat <i class='fab fa-orcid'></i>"
+        url: "https://orcid.org/0000-0003-4925-7248"
+
+researchers:
+  - title: "Version"
+    children:
+      - title: "Version 1.1"
+      - title: "2021-03-01"
+  - title: "Contributors"
+    children:
+      - title: "Stephan Druskat <i class='fab fa-orcid'></i>"
+        url: "https://orcid.org/0000-0003-4925-7248"
+
+introduction:
+  - title: "Version"
+    children:
+      - title: "Version 1.0"
+      - title: "2018-02-16"
+  - title: "Contributors"
+    children:
+      - title: "Stephan Druskat <i class='fab fa-orcid'></i>"
+        url: "https://orcid.org/0000-0003-4925-7248"
