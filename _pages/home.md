@@ -30,14 +30,14 @@ feature_row:
     alt: "Photo of a magnifying glass showing over a text showing the words science and technology"
     title: "Research software citation for researchers"
     excerpt: "Find out how to cite software correctly in your publication."
-    url: "/for-researchers/"
+    url: "/researchers/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/dev-img.jpg
     alt: "Photo of binary numbers on a screen"
     title: "Research software citation for software developers"
     excerpt: "Find out how to make sure that your software can be cited, and cited correctly."
-    url: "/for-software-developers/"
+    url: "/developers/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 sidebar:
