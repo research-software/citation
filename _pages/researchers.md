@@ -150,7 +150,7 @@ following places.
 References
 ----------
 
-1.  Smith, Arfon M., Katz, Daniel S., Niemeyer, Kyle E., & FORCE11
+1.  <a id="principles"/>Smith, Arfon M., Katz, Daniel S., Niemeyer, Kyle E., & FORCE11
     Software Citation Working Group. (2016). Software citation
     principles. *PeerJ Computer Science*, *2*, e86.
     <https://doi.org/10.7717/peerj-cs.86>.
@@ -160,7 +160,7 @@ References
     [*shouldacite*](https://mr-c.github.io/shouldacite/index.html),
     which will provide you with the right
     answer!
-    
+
 [^2]: The following sections include exact quotes of the paper, which are,
     however, not marked as such, for reasons of readability. Please
     refer to the paper itself should you want to cite content from
